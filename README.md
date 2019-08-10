@@ -35,7 +35,8 @@ If everything is ok. we can start the robot using.
 
 and wait for 
 
-```[INFO] [1565428616.040840]: sys = 1 gyr = 3 acc = 3 mag = 3
+```console
+[INFO] [1565428616.040840]: sys = 1 gyr = 3 acc = 3 mag = 3
 [ INFO] [1565428616.056373487]: Gyro calibration complete! (bias = [0.000, -0.000, -0.000])
 [INFO] [1565428616.342433]: sys = 1 gyr = 3 acc = 3 mag = 3
 [INFO] [1565428616.642796]: sys = 1 gyr = 3 acc = 3 mag = 3
