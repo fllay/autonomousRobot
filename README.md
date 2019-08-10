@@ -8,13 +8,20 @@ autonomous AGV
 
 IMU calibration
 
+Run the following command and follow the insturctions.
 
 ```rosrun imu_calib do_calib```
-Apply imu calibration
 
-run 
+After ca;ibration is done. imu calibration can be tested using 
 
-```roslaunch linorobot minimal.launch``` and wait for 
+```rosrun imu_calib apply_calib ```
+
+If everything is ok. we can start the robot using.
+
+```roslaunch linorobot minimal.launch``` 
+
+and wait for 
+
 ```
 [INFO] [1565428616.040840]: sys = 1 gyr = 3 acc = 3 mag = 3
 [ INFO] [1565428616.056373487]: Gyro calibration complete! (bias = [0.000, -0.000, -0.000])
