@@ -5,9 +5,11 @@ autonomous AGV
 
 Create catkin workspace 
 
-$ mkdir -p ~/catkin_ws/src
+```$ mkdir -p ~/catkin_ws/src
+
 $ cd ~/catkin_ws/
-$ catkin_make 
+
+$ catkin_make ```
 
 ```rosrun rosserial_python serial_node.py /dev/ttyACM0```
 
