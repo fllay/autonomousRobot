@@ -30,5 +30,12 @@ and wait for
 [ INFO] [1565428616.658482660]: First pair of IMU and magnetometer messages received.```
 
 
+Create catkin workspace 
+
+```$ mkdir -p ~/catkin_ws/src
+$ cd ~/catkin_ws/
+$ catkin_make```
+
+
 
 
