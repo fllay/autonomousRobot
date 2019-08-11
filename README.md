@@ -36,12 +36,12 @@ If everything is ok. we can start the robot using.
 and wait for 
 
 ```console
-[ INFO] [1565444505.368941652]: Calibrating gyros; do not move the IMU
-[ WARN] [1565444512.353489593]: Still waiting for data on topics /imu/data_raw and /imu/mag...
-[ WARN] [1565444522.353166997]: Still waiting for data on topics /imu/data_raw and /imu/mag...
-[ WARN] [1565444532.352596657]: Still waiting for data on topics /imu/data_raw and /imu/mag...
-[ INFO] [1565444535.280895852]: Gyro calibration complete! (bias = [0.000, 0.000, -0.000])
-[ INFO] [1565444535.883415191]: First pair of IMU and magnetometer messages received.``````
+\[ INFO\] [1565444505.368941652]: Calibrating gyros; do not move the IMU
+\[ WARN\] [1565444512.353489593]: Still waiting for data on topics /imu/data_raw and /imu/mag\.\.\.
+\[ WARN\] [1565444522.353166997]: Still waiting for data on topics /imu/data_raw and /imu/mag\.\.\.
+\[ WARN\] [1565444532.352596657]: Still waiting for data on topics /imu/data_raw and /imu/mag\.\.\.
+\[ INFO\] [1565444535.280895852]: Gyro calibration complete\! \(bias = \[0\.000, 0\.000, -0\.000\]\)
+\[ INFO\] [1565444535.883415191]: First pair of IMU and magnetometer messages received\.``````
 
 
 Utilities
