@@ -48,13 +48,11 @@ and wait for
 
 Docker image
 
-```
-docker run -it --rm -p 6080:80 ros-kinetic-linorobot```
+```docker run -it --rm -p 6080:80 ros-kinetic-linorobot```
 
 In Google chrome 
 
-```
-localhost:6080```
+```localhost:6080```
 
 
 Get disk usages
