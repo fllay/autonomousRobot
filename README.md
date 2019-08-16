@@ -59,7 +59,7 @@ Usage
 
 Just type ```console ncdu [path]``` in the command line. After a few seconds for analyzing the path, you will see something like this:
 
-```console
+```ruby
 $ ncdu 1.11 ~ Use the arrow keys to navigate, press ? for help
 --- / ---------------------------------------------------------
 .  96,1 GiB [##########] /home
@@ -91,6 +91,15 @@ e   4,0 KiB [          ] /cdrom
 @   0,0   B [          ]  vmlinuz```
 
 
+Docker image
+
+```console
+docker run -it --rm -p 6080:80 ros-kinetic-linorobot```
+
+In Google chrome 
+
+```console
+localhost:6080```
 
 
 
