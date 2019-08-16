@@ -46,6 +46,16 @@ and wait for
 
 ***Utilities***
 
+Docker image
+
+```console
+docker run -it --rm -p 6080:80 ros-kinetic-linorobot```
+
+In Google chrome 
+
+```console
+localhost:6080```
+
 
 Get disk usages
 
@@ -91,15 +101,7 @@ e   4,0 KiB [          ] /cdrom
 @   0,0   B [          ]  vmlinuz```
 
 
-Docker image
 
-```console
-docker run -it --rm -p 6080:80 ros-kinetic-linorobot```
-
-In Google chrome 
-
-```console
-localhost:6080```
 
 
 
