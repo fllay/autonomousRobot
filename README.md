@@ -59,7 +59,7 @@ Usage
 
 Just type ```console ncdu [path]``` in the command line. After a few seconds for analyzing the path, you will see something like this:
 
-```ruby
+```console
 $ ncdu 1.11 ~ Use the arrow keys to navigate, press ? for help
 --- / ---------------------------------------------------------
 .  96,1 GiB [##########] /home
