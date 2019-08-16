@@ -48,12 +48,12 @@ and wait for
 
 Docker image
 
-```console
+```
 docker run -it --rm -p 6080:80 ros-kinetic-linorobot```
 
 In Google chrome 
 
-```console
+```
 localhost:6080```
 
 
