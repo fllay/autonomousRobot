@@ -54,6 +54,12 @@ In Google chrome
 
 ```localhost:6080```
 
+systemd robot start up shell script file
+
+```
+sudo pico /usr/sbin/linorobot-start
+```
+
 
 Get disk usages
 
